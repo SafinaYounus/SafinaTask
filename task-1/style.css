@@ -1,0 +1,39 @@
+.cart-btn{
+    background-color:#c63928;
+    color:white;
+    padding:12px,20px;
+    font-style: Gugi;
+}
+.start-btn{
+    background-color: #fdd835;
+color:blue;
+border-color: blue;  
+border-block-end-color: 10px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.login-btn{
+  background-color: #7fd1a7;
+  color:white;
+  border-radius: 75in;
+  border-color:#7fd1a7;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+  
+
+.signup-btn{
+    color:#6749ea;
+    border-color:#6749ea;
+border-radius:75hv;
+}
+.subscribe-btn{
+    background-color:#f6a831;
+    color:white;
+border-radius:60cm;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.twiter-btn{
+    color:#4aabf5;
+    border-radius:50%;
+    border-color:#4aabf5;
+    background-color: white;
+}
